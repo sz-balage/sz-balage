@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Balázs 👋  <br>I’m a computer engineering graduate and full-stack developer with a strong focus on C# and .NET.<br><br>I enjoy building complete applications from backend to frontend, especially when I can combine clean architecture with fast, good-looking user interfaces. My main experience is with ASP.NET APIs and desktop applications using WPF and Avalonia, and I also work with web frontends in Vue and React.<br><br>I’m currently focusing on improving my full-stack skills and building real-world projects while exploring mobile development with Swift.<br>
+Hi, I’m Balázs 👋  <br>I’m a computer engineering graduate and full-stack developer with a strong focus on C# and .NET.<br><br>I enjoy building complete applications from backend to frontend, especially when I can combine clean architecture with fast, good-looking user interfaces. My main experience is with ASP.NET APIs and desktop applications using WPF and Avalonia, and I also work with web frontends in Vue and React.<br><br>I’m currently focusing on improving my web development skills and building real-world projects while also exploring native mobile development with Swift.<br>
 
 
 ## 🌐 Socials:
